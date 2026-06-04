@@ -21,7 +21,7 @@
    * Войдите в свой аккаунт (или зарегистрируйтесь).
    
 2. Создание репозитория из шаблона
-   * Перейдите на страницу репозитория-шаблона https://github.com/OtusSystemDesign/system-design-homework.
+   * Перейдите на страницу репозитория-шаблона https://github.com/OtusSystemDesign/homework-26.
    ![шаблон](./img/sd-01.png)
    * Нажмите кнопку **Use this template**.
    ![](./img/sd-02.png) 
